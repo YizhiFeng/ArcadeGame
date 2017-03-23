@@ -1,0 +1,18 @@
+Cycle 2 User Report:
+Team 201620-19
+Date:2/8/2016
+Author: Yizhi Feng
+
+Cycle 2:
+Up to this stage, we figured out the right path to proceed the project. Jizhong and I were
+   responsible for handling the behavior of mushrooms in terms of contacting with bullets, 
+   hero and centipede, and keeping any ojects from moving outside the map. Zhihong was 
+   responsible for creating centipede and allowing it to run in the classic motion. Then we 
+   gathered up and completed the handling reaction among all the objects that we have so 
+   far. Zhihong came up a good way to improving the calling in the KeyboardListener to
+   make the hero move much more smoothly than before. Then we all discussed and worked
+   to decrease as many duplications as we could.
+I found that the whole team keeps coopreating better and better. Zhihong is really good at
+   coding and the other two are good at keep track of what we are doing. This is a good 
+   momentum for us to proceed the project. We are really confident that we can finish the 
+   project with good animations and awesome addtional features.

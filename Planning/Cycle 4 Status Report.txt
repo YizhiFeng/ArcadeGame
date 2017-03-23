@@ -1,0 +1,21 @@
+Cycle 4 Status Report:
+Team 201620-19
+Date:2/18/2016
+Author: Yizhi Feng
+
+Cycle 4:
+Background picture is added;
+Background music is added;
+A new panel demonstrates the game rules and instructions;
+A new panel demonstrates the top 15 scores in history;
+A new top score after victory will be ranked on the highest scores list;
+All four levels of weapon are implemented;
+Weapon at level 4 destroys all the objects in the same column but can not get score on mushrooms;
+Better graphics of mushrooms and bullets;
+A separate thread for Centipede;
+A new thread for background music;
+Number keys can swtich weapons;
+
+
+Work time duration:
+9 hours team meetings

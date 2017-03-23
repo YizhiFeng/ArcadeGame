@@ -1,0 +1,14 @@
+Cycle 1 User Stories
+Team 201620-19
+2/5/2016   
+Author Jizhou Huang
+
+Cycle 1:
+The hero can move correctly and will be blocked by mushrooms.
+Hero can use one wepean and fire by keyboard 'f'.
+Maps can read correctly and can be changed by keyboard 'd' and 'u'.
+Mushroom icons and hero icon works well in each map.
+The buttons to control the movement of hero change to the direction keys.
+Movements of hero and bullets are working smoothly instead of flashing.
+Old game level can be closed automatically.
+Bullets are from the middle of hero's icon.

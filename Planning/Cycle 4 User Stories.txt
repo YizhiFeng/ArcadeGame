@@ -1,0 +1,17 @@
+Cycle 4 User Report:
+Team 201620-19
+Date:2/18/2016
+Author: Yizhi Feng
+
+Cycle 4:
+On the last cycle, we added a few extra features in the game such as background music and level 4 of weapon.
+    Jizhou succeeded in finishing all the features of the weapon. Zhihong re-organized the threading in game 
+    class, creating a separate thread for Centipede so that Centipede moves much more smoothly and player can
+    avoid possible concurrent runtime error. I added two new JPanel to the frame so that player can easily
+    understand the rules and instruction by reading on the side of the frame. Another panel demonstrates the top
+    15 scores in history and can update when a new top scores.
+At the end, we formatted all the class and added comment and java docs for all the function. We re-arranged the
+    order of the called methods so that they are shown step by step and can be understood more easily. Overall,
+    we think that we completed our project as well as we expected. We are satisfield that we kept working together
+    with continuous discussion on all the setups throughout the project.
+We did it!

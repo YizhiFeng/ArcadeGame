@@ -1,0 +1,33 @@
+Authors:
+Yizhi Feng
+Jizhou Huang
+Zhihong Zhai
+
+Welcome to the Centipede Game!
+             Have fun!!!
+
+
+           3 lives each game
+Arrow keys for Hero's movement
+# keys for switching weapon
+                 F to fire
+         U to increase difficulty
+         D to decrease difficulty
+          P to pause & resume
+
+
+Mushroom                      +30 pts
+Centipede                      +100 pts
+Contact Centipede           -200 pts
+Monster                        +300 pts
+Contact Monster             -300 pts
+Monster eats Mushroom    -50 pts
+
+
+
+          Weapon Features:
+lvl 1: 1 bullet each time
+lvl 2: bullets ignore mushrooms
+lvl 3: 2 bullets each time
+lvl 4: bullets detroy objects in the
+same column (no pts for mushrooms)       

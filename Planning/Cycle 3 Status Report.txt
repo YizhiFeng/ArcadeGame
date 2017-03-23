@@ -1,0 +1,40 @@
+Cycle 2 Status Report:
+Team 201620-19
+Date:2/14/2016
+Author: Yizhi Feng
+
+Cycle 3:
+Hero is now restricted moving in a player area, which is located at the bottom the map;
+ScoreBoard is shown on top of the frame;
+ScoreBoard demonstrates the current level, hero's lives, current score and the weapon level;
+ScoreBoard has flashing font;
+Restart button is located at the bottom of the frame;
+Restart button is not enabled until the player wins or loses;
+Flea is added to the game;
+Flea shows up from the top and drops a regular mushroom at the random location;
+Scorpion is added to the game;
+Scorpion shows up from the left side moving rightwards;
+Scorpion only moves outside the player area;
+All regular mushrooms that contact with Scorpion turn into poisoned mushroom;
+Poisoned mushroom can also be destroyed after being hit three times;
+Centipede moves upward aftering reaching the bottom of the frame, but moves inside the 
+    player area;
+Centipede moves straight down to the player area after touching poisoned mushroom, then
+    returns to classic motion;
+Buff is added to the game;
+Hero contacts with the Buff to upgrade its weapon;
+Weapson: level 1: 1 bullet each shot;
+               level 2: ignore mushroom;
+               level 3: 2 bullets each shot;
+Monster is added to the game;
+Monster's location is read from MapReader;
+Monster moves in a "zig-zag" style;
+Hero has three lives in each game;
+Hero loses one lives after contacting with Centipede, Monster or Flea;
+Player wins the game after clearing Centipede in level 3, "VICTORY" and the final score 
+     are shown on the Scoreboard;
+Player loses the game after dying three times, "GAME OVER" is shown on the Scoreboard; 
+
+
+Work time duration:
+12 hours team meetings

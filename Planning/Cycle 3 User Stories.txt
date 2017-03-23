@@ -1,0 +1,17 @@
+Cycle 2 User Report:
+Team 201620-19
+Date:2/14/2016
+Author: Yizhi Feng
+
+Cycle 3:
+Cycle 3 turns out to be the most productive time period for our project. Every member adds a lot more 
+    features on the game and comes up many great ideas on how we should demonstrate the characteristics
+    of the new itmes. Zhihong takes the responsibility to add the Flea, Scorpion and poisoned mushroom
+    to the game; Jizhou brings up the idea that hero can upgrade its weapon by contacting with Buff, and he
+    finishes implementing it; I create a ScoreBoard on the top of the frame so that the player can easily know 
+    the current state of the game while playing, in addition to the "blinking" style of the font. 
+We are so happy that we have made a huge progress on our report. Everyone in the group works on what he
+    is good at, while everyone gives opinion and takes suggestions from each other. In the next and final cycle,
+    Jizhou will continue on implementing more features of the weapon; I will try to make the instruction of 
+    the game show up on the sides of the frame; and Zhihong will, as usual, improve the quality of the written 
+    codes and make better graphics for the game.

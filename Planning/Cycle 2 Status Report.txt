@@ -1,0 +1,19 @@
+Cycle 2 Status Report:
+Team 201620-19
+Date:2/8/2016
+Author: Yizhi Feng
+
+Cycle 2:
+Classic motion of the centipede;
+Mushrooms are destroyed after being hit 3 times;
+Hero can not move outside the map;
+Centipede can be killed by the hero;
+After being hit, the piece of the centipede becomes a mushroom that can also be destroyed;
+All the other pieces of the centipede continue moving in the classic motion;
+Hero dies after contacting with the centipede;
+Bullets, if not hit anything, will be removed after going outside the map,
+      instead of keeping running in the background;
+      
+      
+Work time duration:
+10 hours team meetings

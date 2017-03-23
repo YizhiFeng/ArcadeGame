@@ -1,0 +1,18 @@
+Cycle 1 Status Report:
+Team 201620-19
+Date:2/5/2016
+Author: Jizhou Huang
+
+Stage 1:
+We finished theCircle 1 as the requirement. The procedure is mainly divided to three parts.
+Firstly we figure out the classes and fuctions we need to use to implement stage1. Then we started working 
+on how to make mushroom and heros show on the graph. 
+Then I set up the frame. Zhihong Zhai figures out how to addicons to the GUI. Yizhi Feng works on the arrays 
+which need to store. This part of job should credits more to Zhihong Zhai and Yizhi Feng who give the team
+ a good start!
+ Then we refine the program. We also add the bullet class into the gameobject which is the abstract class for 
+ all the object shows on 
+the frame. Zhihong Zhai makes bullet move in the right direction. Yizhi Feng makes the bullet shoot out from
+the center of the hero. I add the change level and levelreader.
+
+Totally we use about 7 hours to finish the stage 1.
